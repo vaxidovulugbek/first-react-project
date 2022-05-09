@@ -199,7 +199,9 @@
 .hero__join-text-actic {
   color: #FB5048;
 }
-
+.active {
+  color: #fff;
+}
 
 
 

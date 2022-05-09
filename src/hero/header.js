@@ -10,7 +10,7 @@ function Header() {
       <header className='header'>
         <a href='#'><img className='logo' src="/img/logo.svg" alt="" /></a>
         <nav className='header-navigations'>
-          <a className='header__navlink' href="#">Home</a>
+          <a className='header__navlink active' href="#">Home</a>
           <a className='header__navlink' href="#">Courses</a>
           <a className='header__navlink' href="#">Webinar</a>
           <a className='header__navlink' href="#">Pricing</a>
