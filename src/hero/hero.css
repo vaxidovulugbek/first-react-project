@@ -200,7 +200,7 @@
   color: #FB5048;
 }
 .active {
-  color: #fff;
+  color: #fff !important;
 }
 
 
